@@ -1,0 +1,19 @@
+Tipo,Nivel,Cod_SBS,Objeto,Categoria
+Transaccional,1er,11,Transferencias de Fondos (Interbancarias o Intrabancario),Servicio
+Transaccional,1er,12,Transferencias de Dinero al Extranjero (Remesas),Servicio
+Transaccional,1er,17,Cheques- Pagarés (Titulos valores),Servicio
+Transaccional,1er,18,Fideicomisos,Servicio
+Transaccional,1er,27,Servicios de Recaudación,Servicio
+Transaccional,1er,28,Pago de Servicios (Corresponsalia),Servicio
+Transaccional,1er,29,Servicios Varios - Depositos Judiciales,Servicio
+Transaccional,1er,29,Bonos 380 Apoyo A Pobreza Y Extrema Pobreza,Servicio
+Transaccional,1er,29,Bono Rural,Servicio
+Transaccional,1er,29,Bono Independiente,Servicio
+Transaccional,1er,29,Bono Universal Familiar,Servicio
+Transaccional,1er,29,Bono YANAPAY,Servicio
+Informativo,1er,96,Servicio de Atencion al Usuario,Servicio
+Transaccional,1er,101,Giros,Servicio
+Informativo,1er,999,Otros Servicios,Servicio
+Transaccional,1er,999,Ospr - Programa Pension 65,Servicio
+Transaccional,1er,999,Ospr - Programa Juntos,Servicio
+Transaccional,1er,999,Ospr - Onp,Servicio

@@ -1,0 +1,44 @@
+Tipo,Nivel,Cod_SBS,Objeto,Categoria
+Informativo,1er,21,Publicidad engañosa o información que induce a error,Motivo
+Transaccional,1er,28,Prca - No dispensó efectivo y/o voucher,Motivo
+Transaccional,1er,28,Prca - Retención de tarjeta,Motivo
+Informativo,1er,107,Modificaciones contractuales del crédito – Insatisfacción por falta de entrega o demora en las comunicaciones,Motivo
+Informativo,1er,108,Modificaciones contractuales del crédito – Insatisfacción sobre nuevas condiciones aplicadas.,Motivo
+Transaccional,1er,109,Modificaciones contractuales del crédito – Insatisfacción por problemas para efectuar reversiones,Motivo
+Transaccional,1er,110,Modificaciones contractuales del crédito – Insatisfacción por inadecuada información sobre condiciones de la modificación y/o procedimiento de reversión,Motivo
+Informativo,1er,111,Modificaciones contractuales del crédito – Otros motivos,Motivo
+Informativo,1er,1,"Incumplimiento De Clausulas De los Contratos,Polizas,Condiciones,Acuerdos",Motivo
+Informativo,1er,2,"Inadecuada o Insuficiente Informacion sobre operaciones, productos y servicios",Motivo
+Transaccional,1er,3,"Cobro Indebido De Intereses,Comisiones,Portes,Tarifas y Otros Cargos",Motivo
+Transaccional,1er,3,Ciic - Cobro Indebido De Comision Por Reposicion De Tarjeta,Motivo
+Transaccional,1er,3,Ciic - Cargo Indebido por Consumo Pos,Motivo
+Transaccional,1er,4,"Modificacion indebida De Las Tasas De Interes, Comisiones U Otras Condiciones Pactadas",Motivo
+Transaccional,1er,6,Transaccion No Procesada / Mal Realizada,Motivo
+Transaccional,1er,7,Retenciones Indebidas (Judiciales Y/O de cobranza Coactiva),Motivo
+Transaccional,1er,8,Cancelacion De Cuenta,Motivo
+Transaccional,1er,9,"Cheques mal emitidos, rechazados, duplicados, falsos",Motivo
+Transaccional,1er,10,Liquidaciones erradas,Motivo
+Transaccional,1er,103,Deficiencias técnicas en cajeros automaticos,Motivo
+Transaccional,1er,104,Problemas relacionados a cajeros corresponsales,Motivo
+Transaccional,1er,105,Problemas relacionados a la página web del banco,Motivo
+Transaccional,1er,106,Problemas relacionados con el pago anticipado del crédito,Motivo
+Transaccional,1er,11,Cierre indebido de cuentas corrientes por girar cheques sin fondos,Motivo
+Transaccional,1er,15,"Problemas presentados con tarjeta de crédito (retenida, no emitida, no entregada a tiempo, desactivada, bloqueada)",Motivo
+Transaccional,1er,15,"Problemas presentados con tarjeta de débito (retenida, no emitida, no entregada a tiempo, desactivada, bloqueada)",Motivo
+Transaccional,1er,17,Incumplimieno de secreto bancario,Motivo
+Transaccional,2do,18,"Operaciones en Cuenta No Reconocidas (Consumos,Disposiciones,Retiros,Cargos Y Abonos)",Motivo
+Transaccional,1er,19,Demora o Incumplimentos de Estados de Cuenta (Otros envíos de correspondencia),Motivo
+Transaccional,1er,22,Reporte Indebido en la Central De Riesgos,Motivo
+Transaccional,1er,23,Demora En La Rectificacion De La Informacion Reportada En La Central De Riesgos,Motivo
+Transaccional,1er,24,Errores en la compra-venta de moneda extranjera y aplicación de tipo de cambio,Motivo
+Transaccional,1er,27,Demora O Incumplimiento En La devolución De Documentos Valorados (Titulos Valores),Motivo
+Transaccional,2do,29,Entrega De Billetes Falsos,Motivo
+Transaccional,1er,30,Fallas Del Sistema Informatico Que Dificultan Operaciones Y Servicios,Motivo
+Informativo,1er,33,Difusion De Informacion De Operaciones Sin Autorizacion Del Usuario,Motivo
+Transaccional,1er,34,Error En Los Datos Del Usuario Registrados En La Empresa,Motivo
+Transaccional,1er,38,Prcaoe - No dispensó efectivo y/o voucher,Motivo
+Transaccional,1er,38,Prcaoe - Retención de tarjeta,Motivo
+Informativo,1er,39,Inadecuada Atencion Al Usuario,Motivo
+Informativo,1er,999,Otros motivos,Motivo
+Transaccional,1er,999,Otmv - Reprogramación De Deuda,Motivo
+Transaccional,1er,999,Otmv - Imposibilidad Para Solicitar O Avalar Prestamo Multired,Motivo

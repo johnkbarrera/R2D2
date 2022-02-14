@@ -1,0 +1,8 @@
+Tipo,Nivel,Cod_SBS,Objeto,Categoria
+Transaccional,1er,1,Oficina,Canal de Incidencia
+Transaccional,1er,2,Cajeros automáticos,Canal de Incidencia
+Transaccional,1er,3,Vía intermet,Canal de Incidencia
+Transaccional,1er,4,Banca móvil,Canal de Incidencia
+Informativo,1er,5,Vía Telefónica,Canal de Incidencia
+Transaccional,1er,6,Cajeros corresponsales,Canal de Incidencia
+Transaccional,2do,99,No existe un canal asociado,Canal de Incidencia
