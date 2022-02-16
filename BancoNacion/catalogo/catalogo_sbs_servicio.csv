@@ -1,4 +1,4 @@
-Tipo,Nivel,Cod_SBS,Objeto,Categoria
+Tipo,Nivel,Cod SBS,Servicio SBS,Categoria
 Transaccional,1er,11,Transferencias de Fondos (Interbancarias o Intrabancario),Servicio
 Transaccional,1er,12,Transferencias de Dinero al Extranjero (Remesas),Servicio
 Transaccional,1er,17,Cheques- Pagarés (Titulos valores),Servicio

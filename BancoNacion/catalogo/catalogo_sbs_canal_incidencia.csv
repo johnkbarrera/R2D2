@@ -1,4 +1,4 @@
-Tipo,Nivel,Cod_SBS,Objeto,Categoria
+Tipo,Nivel,Cod SBS,Canal_incidencia SBS,Categoria
 Transaccional,1er,1,Oficina,Canal de Incidencia
 Transaccional,1er,2,Cajeros automáticos,Canal de Incidencia
 Transaccional,1er,3,Vía intermet,Canal de Incidencia
