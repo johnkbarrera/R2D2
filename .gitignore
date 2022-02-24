@@ -1,4 +1,9 @@
-BancoNacion/data/*
+
 CustomerBehabior/*
-MobileConsume/data/*
 MobileConsume/CLUSTER/*
+
+
+BancoNacion/data/pre_processed*
+BancoNacion/data/src/Reporte_*
+BancoNacion/data/src/Analogias_de_servicio_y_motivo_AISR.xlsx
+BancoNacion/data/src/BaseCentrosPoblados.csv
